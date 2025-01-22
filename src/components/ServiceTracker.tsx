@@ -14,18 +14,18 @@ const ServiceTracker = () => {
       id: "SR001",
       type: "Repair",
       status: "In Progress",
-      client: "John Doe",
-      governorId: "GOV-123",
-      date: "2024-02-20",
-      technician: "Mike Smith"
+      client: "John Mwangi",
+      governorId: "GOV-1233331",
+      date: "2025-02-20",
+      technician: "Fred"
     },
     {
       id: "SR002",
       type: "Consultation",
       status: "Pending",
-      client: "Jane Smith",
-      governorId: "GOV-124",
-      date: "2024-02-21",
+      client: "Jane Njambi",
+      governorId: "GOV-124323",
+      date: "2025-02-21",
       technician: "Pending Assignment"
     }
   ];
